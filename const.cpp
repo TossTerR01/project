@@ -1,2 +1,0 @@
-#parma once
-int a;
